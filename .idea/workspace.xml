@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3997b8-38f4-4ffe-b513-27545d89ff2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -179,6 +177,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577975902908</updated>
       <workItem from="1577975904991" duration="9131000" />
+      <workItem from="1578125899960" duration="1798000" />
+      <workItem from="1578210068074" duration="2355000" />
     </task>
     <servers />
   </component>
@@ -196,5 +196,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1147" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577982167103" />
+    <state x="1027" y="278" width="626" height="490" key="find.popup" timestamp="1578227983958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1027" y="278" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578227983958" />
   </component>
 </project>
