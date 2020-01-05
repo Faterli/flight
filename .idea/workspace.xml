@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3997b8-38f4-4ffe-b513-27545d89ff2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,9 +195,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1147" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577982167103" />
-    <state x="1027" y="278" width="626" height="490" key="find.popup" timestamp="1578227983958">
+    <state x="1027" y="278" width="626" height="490" key="find.popup" timestamp="1578230760721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1027" y="278" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578227983958" />
+    <state x="1027" y="278" width="626" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578230760721" />
   </component>
 </project>
